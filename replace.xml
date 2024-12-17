@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<remove-project name="hardware_qcom-caf_sm8250_audio" />
-<project path="hardware/qcom-caf/sm8250/audio" name="android_hardware_qcom_audio" remote="lineage" revision="lineage-22.0-caf-sm8250" clone-depth="1" />
+<remove-project name="tools_extract-utils" />
+<project path="tools/extract-utils" name="android_tools_extract-utils" remote="lineage" revision="lineage-22.0" clone-depth="1" />
 
 </manifest>
